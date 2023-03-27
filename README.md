@@ -1,4 +1,4 @@
-Here are some of the new skills you've learned:
+Here are some of the new skills I've learned:
 * Load multiple CSV files into a pandas DataFrame
 * Clean messy data with a wrangle function
 * Create a machine learning pipeline with feature encoding and imputation
